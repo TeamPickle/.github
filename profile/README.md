@@ -8,3 +8,6 @@
  * 코로나19 알림봇 (2020.02 ~ 서비즈 중) [(레포지토리1)](https://github.com/TeamPickle/covid19-v2)[(레포지토리2)](https://github.com/TeamPickle/covid19-v3)
  * 마피아 게임 for Pickle (2021.04 ~ 서비스 중)
  * Pickle+ (베타 테스트 중)
+
+## 블로그도 있어요!
+[블로그 놀러가기](https://blog.tpk.kr/)
